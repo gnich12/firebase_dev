@@ -1,12 +1,12 @@
 var fs = require('fs');
 var firebase = require('firebase');
 var config = {
-    apiKey: "AIzaSyDD9SbivxXw1mTr5h26vP0U7S-pSEmyYsY",
-    authDomain: "midtermapp-9b881.firebaseapp.com",
-    databaseURL: "https://midtermapp-9b881.firebaseio.com",
-    projectId: "midtermapp-9b881",
-    storageBucket: "midtermapp-9b881.appspot.com",
-    messagingSenderId: "528608092517"
+    apiKey: ""
+    authDomain: "" 
+    databaseURL: ""
+    projectId: ""
+    storageBucket: "" 
+    messagingSenderId: "" 
   };
 
 firebase.initializeApp(config);
