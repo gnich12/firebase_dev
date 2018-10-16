@@ -1,0 +1,31 @@
+Questions	type	Options	answer	score
+Use the ___ view to arrange large documents into smaller sections.	fb	none	outline	3.33
+The master document is updated automatically because the subdocument is ___ to the master document.	fb	none	linked	3.33
+A ___ is part of the master document and is separated into small sections.	fb	none	subdocument	3.33
+"When opening a master document, the subdocuments displays as a ___ to the file."	fb	none	hyperlink	3.33
+"Once you move a subdocument, unlink it and ___ it."	fb	none	recreate	3.33
+Subdocuments are created based on which of the following?	mb	"file names, heading styles, size, content"	b	3.33
+Which of the following methods best describes how to save a master document?	mb	"same drive, same name, same directory, same topic"	c	3.33
+Which of the following key sequences is used to follow a subdocument link within the master?	mb	"Alt + Click, Shift + Click, Ctrl + Click, Tab + Click"	c	3.33
+Which symbol displays next to a heading in Outline view and is used to select the heading?	mb	"(+), (*),  (=), (-)"	a	3.33
+Which tab contains the Macros command?	mb	"Home, Insert, Review, View"	d	3.33
+"When a file is encrypted, the data is converted to a ___."	fb	none	code	3.33
+"When you set editing restrictions to No changes, the document is made ___."	fb	none	read only	3.33
+A ___ is the location in the document that you are allowed to edit	fb	none	region	3.33
+Select Mark as Final to alert others that you wish this document to be ___.	fb	none	read only	3.33
+"You are asked to revert back to the original document, negating all changes. In order to recover the original document, choose ___ in Backstage. "	fb	none	manage versions	3.33
+"When you add a password to a document, what are you doing to it?"	mb	"encrypting, formatting, printing, faxing"	a	3.33
+"User authentication adds an inscription preventing sensitive documents from being printed, forwarded, or copied. In order to activate user authentication, your computer must be set up for which of the following?"	mb	"ARM, ORM, IRM, PRM"	c	3.33
+"You want to allow others to change text in your document; however, you do not want them to make any changes to the structure, pattern, or theme. Which option do you choose in the Formatting Restrictions dialog box?"	mb	"Limit formatting to a selection of styles, Block Quick Style Set switching, Allow AutoFormat to override formatting restrictions, Block Theme or Scheme switching"	d	3.33
+Word opens a document in Protected View when it cannot confirm it came from a safe location. Which option turns off Protected View?	mb	"Open, Clear Editing, Enable Editing, Remove Restriction"	c	3.33
+"In order to recover a document closed without a file name, use the Recover Unsaved Documents button in the __________ option in Backstage. "	mb	"New, Save, Open, Save As"	c	3.33
+Which command in Backstage allows you to change the default Word settings to customize the program to best fit your needs?	mb	"Info, Save As, Share, Options"	d	3.33
+Which category in Word Options allows you to add your name and initials automatically to all Word documents you create?	mb	"General, Display, Customize Ribbon, Add-Ins"	a	3.33
+Which default file format will you set in Word Options to maintain compatibility with Word 2003 users until all coworkers are upgraded to Word 2013?	mb	"*.dot, *.doc, *.docm, *.dotx"	b	3.33
+Changes made to the default working folder in Word Options apply to which of the following?	mb	"all Microsoft Office applications, the open document only, the open and all future Word documents, none of the above"	c	3.33
+Which tab in Word Options contains the greatest number of customization options available?	mb	"General, Display, Proofing, Advanced"	d	3.33
+"In order to change the number of Recent Documents from 25 to 15, you would access Backstage, Word Options, and then which of the following?"	mb	"Advanced Show this number of Recent Documents, Proofing Show this number of Recent Documents, Save Show this number of Recent Documents, General Show this number of Recent Documents"	a	3.33
+"In order to have Word notify you before modifying the new document template, you would access Backstage, Word Options, and then which of the following?"	mb	"General Prompt before saving Normal template, Save Prompt before saving Normal template, Advanced Prompt before saving Normal template, Proofing Prompt before saving Normal template"	a	3.33
+Information you type in the Properties dialog box is also known as ___.	fb	none	metadata	3.33
+The ___ folder on drive C is the default location where all Microsoft Office files are stored.	fb	none	document	3.33
+You must be ___ to your Microsoft account before you can add your Facebook account to your SkyDrive connections.	fb	none	signed in	3.33

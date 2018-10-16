@@ -1,0 +1,2254 @@
+################################## 
+ ---------C202 Midterm----------
+Student Name: rihab nacheb 
+Date: undefined
+################################## 
+1) Use the ___ view to arrange large documents into smaller sections
+Student Answer: outline
+Correct answer: outline
+Point = 3.33 
+
+2) The master document is updated automatically because the subdocument is ___ to the master document.
+Student Answer: linked
+Correct answer: linked
+Point = 3.33 
+
+3) A ___ is part of the master document and is separated into small sections.
+Student Answer: subdocument
+Correct answer: subdocument
+Point = 3.33 
+
+4) "When opening a master document, the subdocuments displays as a ___ to the file."
+Student Answer: hyperlink
+Correct answer: hyperlink
+Point = 3.33 
+
+5) "Once you move a subdocument, unlink it and ___ it."
+Student Answer: recreate
+Correct answer: recreate
+Point = 3.33 
+
+6) Subdocuments are created based on which of the following?
+Student Answer: heading styles
+Correct answer: heading styles
+Point = 3.33 
+
+7) Which of the following methods best describes how to save a master document?
+Student Answer: same directory
+Correct answer: same directory
+Point = 3.33 
+
+8) Which of the following key sequences is used to follow a subdocument link within the master?
+Student Answer: ctrl + click
+Correct answer: ctrl + click
+Point = 3.33 
+
+9) Which symbol displays next to a heading in Outline view and is used to select the heading?
+Student Answer: (+)
+Correct answer: (+)
+Point = 3.33 
+
+10) Which tab contains the Macros command?
+Student Answer: view (X)
+Correct answer: review
+Point = 0 
+
+11) When a file is encrypted, the data is converted to a ___.
+Student Answer: encoded version (X)
+Correct answer: code
+Point = 0 
+
+12) "When you set editing restrictions to No changes, the document is made ___."
+Student Answer: read only
+Correct answer: read only
+Point = 3.33 
+
+13) A ___ is the location in the document that you are allowed to edit
+Student Answer: region
+Correct answer: region
+Point = 3.33 
+
+14) Select Mark as Final to alert others that you wish this document to be ___.
+Student Answer: read only
+Correct answer: read only
+Point = 3.33 
+
+15) "You are asked to revert back to the original document, negating all changes. In order to recover the original document, choose ___ in Backstage. "
+Student Answer: manage versions
+Correct answer: manage versions
+Point = 3.33 
+
+16) "When you add a password to a document, what are you doing to it?"
+Student Answer: encrypting
+Correct answer: encrypting
+Point = 3.33 
+
+17) "User authentication adds an inscription preventing sensitive documents from being printed, forwarded, or copied. In order to activate user authentication, your computer must be set up for which of the following?"
+Student Answer: irm
+Correct answer: irm
+Point = 3.33 
+
+18) "You want to allow others to change text in your document; however, you do not want them to make any changes to the structure, pattern, or theme. Which option do you choose in the Formatting Restrictions dialog box?"
+Student Answer: block theme or scheme switching (X)
+Correct answer: allow autoformat to override formatting restrictions
+Point = 0 
+
+19) Word opens a document in Protected View when it cannot confirm it came from a safe location. Which option turns off Protected View?
+Student Answer: enable editing
+Correct answer: enable editing
+Point = 3.33 
+
+20) "In order to recover a document closed without a file name, use the Recover Unsaved Documents button in the __________ option in Backstage. "
+Student Answer: open
+Correct answer: open
+Point = 3.33 
+
+21) Which command in Backstage allows you to change the default Word settings to customize the program to best fit your needs?
+Student Answer: info (X)
+Correct answer: options
+Point = 0 
+
+22) Which category in Word Options allows you to add your name and initials automatically to all Word documents you create?
+Student Answer: add-ins (X)
+Correct answer: general
+Point = 0 
+
+23) Which default file format will you set in Word Options to maintain compatibility with Word 2003 users until all coworkers are upgraded to Word 2013?
+Student Answer: *.doc
+Correct answer: *.doc
+Point = 3.33 
+
+24) Changes made to the default working folder in Word Options apply to which of the following?
+Student Answer: the open and all future word documents (X)
+Correct answer: the open and all future of word documents
+Point = 0 
+
+25) Which tab in Word Options contains the greatest number of customization options available?
+Student Answer: general (X)
+Correct answer: advance
+Point = 0 
+
+26) "In order to change the number of Recent Documents from 25 to 15, you would access Backstage, Word Options, and then which of the following?"
+Student Answer: advanced show this number of recent documents
+Correct answer: advanced show this number of recent documents
+Point = 3.33 
+
+27) "In order to have Word notify you before modifying the new document template, you would access Backstage, Word Options, and then which of the following?"
+Student Answer: general prompt before saving normal template
+Correct answer: general prompt before saving normal template
+Point = 3.33 
+
+28) Information you type in the Properties dialog box is also known as ___.
+Student Answer: metadata
+Correct answer: metadata
+Point = 3.33 
+
+29) The ___ folder on drive C is the default location where all Microsoft Office files are stored.
+Student Answer: document
+Correct answer: document
+Point = 3.33 
+
+30) You must be ___ to your Microsoft account before you can add your Facebook account to your SkyDrive connections.
+Student Answer: logged (X)
+Correct answer: signed in
+Point = 0 
+
+-----------------------
+-----------------------
+TOTAL SCORE: 73.25999999999998 out of 100
+ -------------------------
+-----------------------
+
+################################## 
+ ---------C202 Midterm----------
+Student Name: Thanyaporn Sophonjit
+Date: undefined
+################################## 
+1) Use the ___ view to arrange large documents into smaller sections
+Student Answer: outline
+Correct answer: outline
+Point = 3.33 
+
+2) The master document is updated automatically because the subdocument is ___ to the master document.
+Student Answer: linked
+Correct answer: linked
+Point = 3.33 
+
+3) A ___ is part of the master document and is separated into small sections.
+Student Answer: subdocument
+Correct answer: subdocument
+Point = 3.33 
+
+4) "When opening a master document, the subdocuments displays as a ___ to the file."
+Student Answer: hyperlink
+Correct answer: hyperlink
+Point = 3.33 
+
+5) "Once you move a subdocument, unlink it and ___ it."
+Student Answer: recreate
+Correct answer: recreate
+Point = 3.33 
+
+6) Subdocuments are created based on which of the following?
+Student Answer: heading styles
+Correct answer: heading styles
+Point = 3.33 
+
+7) Which of the following methods best describes how to save a master document?
+Student Answer: same directory
+Correct answer: same directory
+Point = 3.33 
+
+8) Which of the following key sequences is used to follow a subdocument link within the master?
+Student Answer: ctrl + click
+Correct answer: ctrl + click
+Point = 3.33 
+
+9) Which symbol displays next to a heading in Outline view and is used to select the heading?
+Student Answer: (+)
+Correct answer: (+)
+Point = 3.33 
+
+10) Which tab contains the Macros command?
+Student Answer: view (X)
+Correct answer: review
+Point = 0 
+
+11) When a file is encrypted, the data is converted to a ___.
+Student Answer: code
+Correct answer: code
+Point = 3.33 
+
+12) "When you set editing restrictions to No changes, the document is made ___."
+Student Answer: read only
+Correct answer: read only
+Point = 3.33 
+
+13) A ___ is the location in the document that you are allowed to edit
+Student Answer: region
+Correct answer: region
+Point = 3.33 
+
+14) Select Mark as Final to alert others that you wish this document to be ___.
+Student Answer: read only
+Correct answer: read only
+Point = 3.33 
+
+15) "You are asked to revert back to the original document, negating all changes. In order to recover the original document, choose ___ in Backstage. "
+Student Answer: manage versions
+Correct answer: manage versions
+Point = 3.33 
+
+16) "When you add a password to a document, what are you doing to it?"
+Student Answer: encrypting
+Correct answer: encrypting
+Point = 3.33 
+
+17) "User authentication adds an inscription preventing sensitive documents from being printed, forwarded, or copied. In order to activate user authentication, your computer must be set up for which of the following?"
+Student Answer: irm
+Correct answer: irm
+Point = 3.33 
+
+18) "You want to allow others to change text in your document; however, you do not want them to make any changes to the structure, pattern, or theme. Which option do you choose in the Formatting Restrictions dialog box?"
+Student Answer: block theme or scheme switching (X)
+Correct answer: allow autoformat to override formatting restrictions
+Point = 0 
+
+19) Word opens a document in Protected View when it cannot confirm it came from a safe location. Which option turns off Protected View?
+Student Answer: enable editing
+Correct answer: enable editing
+Point = 3.33 
+
+20) "In order to recover a document closed without a file name, use the Recover Unsaved Documents button in the __________ option in Backstage. "
+Student Answer: open
+Correct answer: open
+Point = 3.33 
+
+21) Which command in Backstage allows you to change the default Word settings to customize the program to best fit your needs?
+Student Answer: options
+Correct answer: options
+Point = 3.33 
+
+22) Which category in Word Options allows you to add your name and initials automatically to all Word documents you create?
+Student Answer: general
+Correct answer: general
+Point = 3.33 
+
+23) Which default file format will you set in Word Options to maintain compatibility with Word 2003 users until all coworkers are upgraded to Word 2013?
+Student Answer: *.doc
+Correct answer: *.doc
+Point = 3.33 
+
+24) Changes made to the default working folder in Word Options apply to which of the following?
+Student Answer: the open and all future word documents (X)
+Correct answer: the open and all future of word documents
+Point = 0 
+
+25) Which tab in Word Options contains the greatest number of customization options available?
+Student Answer: advanced (X)
+Correct answer: advance
+Point = 0 
+
+26) "In order to change the number of Recent Documents from 25 to 15, you would access Backstage, Word Options, and then which of the following?"
+Student Answer: advanced show this number of recent documents
+Correct answer: advanced show this number of recent documents
+Point = 3.33 
+
+27) "In order to have Word notify you before modifying the new document template, you would access Backstage, Word Options, and then which of the following?"
+Student Answer: general prompt before saving normal template
+Correct answer: general prompt before saving normal template
+Point = 3.33 
+
+28) Information you type in the Properties dialog box is also known as ___.
+Student Answer: metadata
+Correct answer: metadata
+Point = 3.33 
+
+29) The ___ folder on drive C is the default location where all Microsoft Office files are stored.
+Student Answer: document
+Correct answer: document
+Point = 3.33 
+
+30) You must be ___ to your Microsoft account before you can add your Facebook account to your SkyDrive connections.
+Student Answer: signed in
+Correct answer: signed in
+Point = 3.33 
+
+-----------------------
+-----------------------
+TOTAL SCORE: 86.57999999999997 out of 100
+ -------------------------
+-----------------------
+
+################################## 
+ ---------C202 Midterm----------
+Student Name: Blesilda Pangolibay
+Date: 2018-09-20
+################################## 
+1) Use the ___ view to arrange large documents into smaller sections
+Student Answer: outline
+Correct answer: outline
+Point = 3.33 
+
+2) The master document is updated automatically because the subdocument is ___ to the master document.
+Student Answer: linked
+Correct answer: linked
+Point = 3.33 
+
+3) A ___ is part of the master document and is separated into small sections.
+Student Answer: subdocument
+Correct answer: subdocument
+Point = 3.33 
+
+4) "When opening a master document, the subdocuments displays as a ___ to the file."
+Student Answer: hyperlink
+Correct answer: hyperlink
+Point = 3.33 
+
+5) "Once you move a subdocument, unlink it and ___ it."
+Student Answer: recreate
+Correct answer: recreate
+Point = 3.33 
+
+6) Subdocuments are created based on which of the following?
+Student Answer: heading styles
+Correct answer: heading styles
+Point = 3.33 
+
+7) Which of the following methods best describes how to save a master document?
+Student Answer: same directory
+Correct answer: same directory
+Point = 3.33 
+
+8) Which of the following key sequences is used to follow a subdocument link within the master?
+Student Answer: ctrl + click
+Correct answer: ctrl + click
+Point = 3.33 
+
+9) Which symbol displays next to a heading in Outline view and is used to select the heading?
+Student Answer: (+)
+Correct answer: (+)
+Point = 3.33 
+
+10) Which tab contains the Macros command?
+Student Answer: view (X)
+Correct answer: review
+Point = 0 
+
+11) When a file is encrypted, the data is converted to a ___.
+Student Answer: code
+Correct answer: code
+Point = 3.33 
+
+12) "When you set editing restrictions to No changes, the document is made ___."
+Student Answer: read only
+Correct answer: read only
+Point = 3.33 
+
+13) A ___ is the location in the document that you are allowed to edit
+Student Answer: region
+Correct answer: region
+Point = 3.33 
+
+14) Select Mark as Final to alert others that you wish this document to be ___.
+Student Answer: read only
+Correct answer: read only
+Point = 3.33 
+
+15) "You are asked to revert back to the original document, negating all changes. In order to recover the original document, choose ___ in Backstage. "
+Student Answer: manage versions
+Correct answer: manage versions
+Point = 3.33 
+
+16) "When you add a password to a document, what are you doing to it?"
+Student Answer: encrypting
+Correct answer: encrypting
+Point = 3.33 
+
+17) "User authentication adds an inscription preventing sensitive documents from being printed, forwarded, or copied. In order to activate user authentication, your computer must be set up for which of the following?"
+Student Answer: irm
+Correct answer: irm
+Point = 3.33 
+
+18) "You want to allow others to change text in your document; however, you do not want them to make any changes to the structure, pattern, or theme. Which option do you choose in the Formatting Restrictions dialog box?"
+Student Answer: block theme or scheme switching (X)
+Correct answer: allow autoformat to override formatting restrictions
+Point = 0 
+
+19) Word opens a document in Protected View when it cannot confirm it came from a safe location. Which option turns off Protected View?
+Student Answer: enable editing
+Correct answer: enable editing
+Point = 3.33 
+
+20) "In order to recover a document closed without a file name, use the Recover Unsaved Documents button in the __________ option in Backstage. "
+Student Answer: open
+Correct answer: open
+Point = 3.33 
+
+21) Which command in Backstage allows you to change the default Word settings to customize the program to best fit your needs?
+Student Answer: options
+Correct answer: options
+Point = 3.33 
+
+22) Which category in Word Options allows you to add your name and initials automatically to all Word documents you create?
+Student Answer: general
+Correct answer: general
+Point = 3.33 
+
+23) Which default file format will you set in Word Options to maintain compatibility with Word 2003 users until all coworkers are upgraded to Word 2013?
+Student Answer: *.doc
+Correct answer: *.doc
+Point = 3.33 
+
+24) Changes made to the default working folder in Word Options apply to which of the following?
+Student Answer: the open and all future word documents (X)
+Correct answer: the open and all future of word documents
+Point = 0 
+
+25) Which tab in Word Options contains the greatest number of customization options available?
+Student Answer: advanced (X)
+Correct answer: advance
+Point = 0 
+
+26) "In order to change the number of Recent Documents from 25 to 15, you would access Backstage, Word Options, and then which of the following?"
+Student Answer: advanced show this number of recent documents
+Correct answer: advanced show this number of recent documents
+Point = 3.33 
+
+27) "In order to have Word notify you before modifying the new document template, you would access Backstage, Word Options, and then which of the following?"
+Student Answer: general prompt before saving normal template
+Correct answer: general prompt before saving normal template
+Point = 3.33 
+
+28) Information you type in the Properties dialog box is also known as ___.
+Student Answer: metadata
+Correct answer: metadata
+Point = 3.33 
+
+29) The ___ folder on drive C is the default location where all Microsoft Office files are stored.
+Student Answer: document
+Correct answer: document
+Point = 3.33 
+
+30) You must be ___ to your Microsoft account before you can add your Facebook account to your SkyDrive connections.
+Student Answer: signed in
+Correct answer: signed in
+Point = 3.33 
+
+-----------------------
+-----------------------
+TOTAL SCORE: 86.57999999999997 out of 100
+ -------------------------
+-----------------------
+
+################################## 
+ ---------C202 Midterm----------
+Student Name: Hadassa Serafin
+Date: 2018-09-20
+################################## 
+1) Use the ___ view to arrange large documents into smaller sections
+Student Answer: outline
+Correct answer: outline
+Point = 3.33 
+
+2) The master document is updated automatically because the subdocument is ___ to the master document.
+Student Answer: linked
+Correct answer: linked
+Point = 3.33 
+
+3) A ___ is part of the master document and is separated into small sections.
+Student Answer: subdocuments (X)
+Correct answer: subdocument
+Point = 0 
+
+4) "When opening a master document, the subdocuments displays as a ___ to the file."
+Student Answer: hyperlink
+Correct answer: hyperlink
+Point = 3.33 
+
+5) "Once you move a subdocument, unlink it and ___ it."
+Student Answer: recreates (X)
+Correct answer: recreate
+Point = 0 
+
+6) Subdocuments are created based on which of the following?
+Student Answer: heading styles
+Correct answer: heading styles
+Point = 3.33 
+
+7) Which of the following methods best describes how to save a master document?
+Student Answer: same directory
+Correct answer: same directory
+Point = 3.33 
+
+8) Which of the following key sequences is used to follow a subdocument link within the master?
+Student Answer: ctrl + click
+Correct answer: ctrl + click
+Point = 3.33 
+
+9) Which symbol displays next to a heading in Outline view and is used to select the heading?
+Student Answer: (+)
+Correct answer: (+)
+Point = 3.33 
+
+10) Which tab contains the Macros command?
+Student Answer: view (X)
+Correct answer: review
+Point = 0 
+
+11) When a file is encrypted, the data is converted to a ___.
+Student Answer: code
+Correct answer: code
+Point = 3.33 
+
+12) "When you set editing restrictions to No changes, the document is made ___."
+Student Answer: read only
+Correct answer: read only
+Point = 3.33 
+
+13) A ___ is the location in the document that you are allowed to edit
+Student Answer: region
+Correct answer: region
+Point = 3.33 
+
+14) Select Mark as Final to alert others that you wish this document to be ___.
+Student Answer: read only
+Correct answer: read only
+Point = 3.33 
+
+15) "You are asked to revert back to the original document, negating all changes. In order to recover the original document, choose ___ in Backstage. "
+Student Answer: manage versions
+Correct answer: manage versions
+Point = 3.33 
+
+16) "When you add a password to a document, what are you doing to it?"
+Student Answer: encrypting
+Correct answer: encrypting
+Point = 3.33 
+
+17) "User authentication adds an inscription preventing sensitive documents from being printed, forwarded, or copied. In order to activate user authentication, your computer must be set up for which of the following?"
+Student Answer: irm
+Correct answer: irm
+Point = 3.33 
+
+18) "You want to allow others to change text in your document; however, you do not want them to make any changes to the structure, pattern, or theme. Which option do you choose in the Formatting Restrictions dialog box?"
+Student Answer: block theme or scheme switching (X)
+Correct answer: allow autoformat to override formatting restrictions
+Point = 0 
+
+19) Word opens a document in Protected View when it cannot confirm it came from a safe location. Which option turns off Protected View?
+Student Answer: enable editing
+Correct answer: enable editing
+Point = 3.33 
+
+20) "In order to recover a document closed without a file name, use the Recover Unsaved Documents button in the __________ option in Backstage. "
+Student Answer: open
+Correct answer: open
+Point = 3.33 
+
+21) Which command in Backstage allows you to change the default Word settings to customize the program to best fit your needs?
+Student Answer: options
+Correct answer: options
+Point = 3.33 
+
+22) Which category in Word Options allows you to add your name and initials automatically to all Word documents you create?
+Student Answer: general
+Correct answer: general
+Point = 3.33 
+
+23) Which default file format will you set in Word Options to maintain compatibility with Word 2003 users until all coworkers are upgraded to Word 2013?
+Student Answer: *.doc
+Correct answer: *.doc
+Point = 3.33 
+
+24) Changes made to the default working folder in Word Options apply to which of the following?
+Student Answer: the open and all future word documents (X)
+Correct answer: the open and all future of word documents
+Point = 0 
+
+25) Which tab in Word Options contains the greatest number of customization options available?
+Student Answer: advanced (X)
+Correct answer: advance
+Point = 0 
+
+26) "In order to change the number of Recent Documents from 25 to 15, you would access Backstage, Word Options, and then which of the following?"
+Student Answer: advanced show this number of recent documents
+Correct answer: advanced show this number of recent documents
+Point = 3.33 
+
+27) "In order to have Word notify you before modifying the new document template, you would access Backstage, Word Options, and then which of the following?"
+Student Answer: general prompt before saving normal template
+Correct answer: general prompt before saving normal template
+Point = 3.33 
+
+28) Information you type in the Properties dialog box is also known as ___.
+Student Answer: metadata
+Correct answer: metadata
+Point = 3.33 
+
+29) The ___ folder on drive C is the default location where all Microsoft Office files are stored.
+Student Answer: document
+Correct answer: document
+Point = 3.33 
+
+30) You must be ___ to your Microsoft account before you can add your Facebook account to your SkyDrive connections.
+Student Answer: signed in
+Correct answer: signed in
+Point = 3.33 
+
+-----------------------
+-----------------------
+TOTAL SCORE: 79.91999999999997 out of 100
+ -------------------------
+-----------------------
+
+################################## 
+ ---------C202 Midterm----------
+Student Name: Ralph Bobbin Lopez
+Date: 2018-09-20
+################################## 
+1) Use the ___ view to arrange large documents into smaller sections
+Student Answer: outline
+Correct answer: outline
+Point = 3.33 
+
+2) The master document is updated automatically because the subdocument is ___ to the master document.
+Student Answer: linked
+Correct answer: linked
+Point = 3.33 
+
+3) A ___ is part of the master document and is separated into small sections.
+Student Answer: subdocument
+Correct answer: subdocument
+Point = 3.33 
+
+4) "When opening a master document, the subdocuments displays as a ___ to the file."
+Student Answer: hyperlink
+Correct answer: hyperlink
+Point = 3.33 
+
+5) "Once you move a subdocument, unlink it and ___ it."
+Student Answer: recreate
+Correct answer: recreate
+Point = 3.33 
+
+6) Subdocuments are created based on which of the following?
+Student Answer: heading styles
+Correct answer: heading styles
+Point = 3.33 
+
+7) Which of the following methods best describes how to save a master document?
+Student Answer: same directory
+Correct answer: same directory
+Point = 3.33 
+
+8) Which of the following key sequences is used to follow a subdocument link within the master?
+Student Answer: ctrl + click
+Correct answer: ctrl + click
+Point = 3.33 
+
+9) Which symbol displays next to a heading in Outline view and is used to select the heading?
+Student Answer: (+)
+Correct answer: (+)
+Point = 3.33 
+
+10) Which tab contains the Macros command?
+Student Answer: view (X)
+Correct answer: review
+Point = 0 
+
+11) When a file is encrypted, the data is converted to a ___.
+Student Answer: code
+Correct answer: code
+Point = 3.33 
+
+12) "When you set editing restrictions to No changes, the document is made ___."
+Student Answer: read only
+Correct answer: read only
+Point = 3.33 
+
+13) A ___ is the location in the document that you are allowed to edit
+Student Answer: region
+Correct answer: region
+Point = 3.33 
+
+14) Select Mark as Final to alert others that you wish this document to be ___.
+Student Answer: read only
+Correct answer: read only
+Point = 3.33 
+
+15) "You are asked to revert back to the original document, negating all changes. In order to recover the original document, choose ___ in Backstage. "
+Student Answer: manage versions
+Correct answer: manage versions
+Point = 3.33 
+
+16) "When you add a password to a document, what are you doing to it?"
+Student Answer: encrypting
+Correct answer: encrypting
+Point = 3.33 
+
+17) "User authentication adds an inscription preventing sensitive documents from being printed, forwarded, or copied. In order to activate user authentication, your computer must be set up for which of the following?"
+Student Answer: irm
+Correct answer: irm
+Point = 3.33 
+
+18) "You want to allow others to change text in your document; however, you do not want them to make any changes to the structure, pattern, or theme. Which option do you choose in the Formatting Restrictions dialog box?"
+Student Answer: block theme or scheme switching (X)
+Correct answer: allow autoformat to override formatting restrictions
+Point = 0 
+
+19) Word opens a document in Protected View when it cannot confirm it came from a safe location. Which option turns off Protected View?
+Student Answer: enable editing
+Correct answer: enable editing
+Point = 3.33 
+
+20) "In order to recover a document closed without a file name, use the Recover Unsaved Documents button in the __________ option in Backstage. "
+Student Answer: open
+Correct answer: open
+Point = 3.33 
+
+21) Which command in Backstage allows you to change the default Word settings to customize the program to best fit your needs?
+Student Answer: options
+Correct answer: options
+Point = 3.33 
+
+22) Which category in Word Options allows you to add your name and initials automatically to all Word documents you create?
+Student Answer: general
+Correct answer: general
+Point = 3.33 
+
+23) Which default file format will you set in Word Options to maintain compatibility with Word 2003 users until all coworkers are upgraded to Word 2013?
+Student Answer: *.doc
+Correct answer: *.doc
+Point = 3.33 
+
+24) Changes made to the default working folder in Word Options apply to which of the following?
+Student Answer: the open and all future word documents (X)
+Correct answer: the open and all future of word documents
+Point = 0 
+
+25) Which tab in Word Options contains the greatest number of customization options available?
+Student Answer: advanced (X)
+Correct answer: advance
+Point = 0 
+
+26) "In order to change the number of Recent Documents from 25 to 15, you would access Backstage, Word Options, and then which of the following?"
+Student Answer: advanced show this number of recent documents
+Correct answer: advanced show this number of recent documents
+Point = 3.33 
+
+27) "In order to have Word notify you before modifying the new document template, you would access Backstage, Word Options, and then which of the following?"
+Student Answer: general prompt before saving normal template
+Correct answer: general prompt before saving normal template
+Point = 3.33 
+
+28) Information you type in the Properties dialog box is also known as ___.
+Student Answer: metadata
+Correct answer: metadata
+Point = 3.33 
+
+29) The ___ folder on drive C is the default location where all Microsoft Office files are stored.
+Student Answer: documents (X)
+Correct answer: document
+Point = 0 
+
+30) You must be ___ to your Microsoft account before you can add your Facebook account to your SkyDrive connections.
+Student Answer: linked (X)
+Correct answer: signed in
+Point = 0 
+
+-----------------------
+-----------------------
+TOTAL SCORE: 79.91999999999997 out of 100
+ -------------------------
+-----------------------
+
+################################## 
+ ---------C202 Midterm----------
+Student Name: jatupon intangoen
+Date: undefined
+################################## 
+1) Use the ___ view to arrange large documents into smaller sections
+Student Answer: outline
+Correct answer: outline
+Point = 3.33 
+
+2) The master document is updated automatically because the subdocument is ___ to the master document.
+Student Answer: linked
+Correct answer: linked
+Point = 3.33 
+
+3) A ___ is part of the master document and is separated into small sections.
+Student Answer: subdocument
+Correct answer: subdocument
+Point = 3.33 
+
+4) "When opening a master document, the subdocuments displays as a ___ to the file."
+Student Answer: hyperlink
+Correct answer: hyperlink
+Point = 3.33 
+
+5) "Once you move a subdocument, unlink it and ___ it."
+Student Answer: recreate
+Correct answer: recreate
+Point = 3.33 
+
+6) Subdocuments are created based on which of the following?
+Student Answer: heading styles
+Correct answer: heading styles
+Point = 3.33 
+
+7) Which of the following methods best describes how to save a master document?
+Student Answer: same directory
+Correct answer: same directory
+Point = 3.33 
+
+8) Which of the following key sequences is used to follow a subdocument link within the master?
+Student Answer: ctrl + click
+Correct answer: ctrl + click
+Point = 3.33 
+
+9) Which symbol displays next to a heading in Outline view and is used to select the heading?
+Student Answer: (+)
+Correct answer: (+)
+Point = 3.33 
+
+10) Which tab contains the Macros command?
+Student Answer: view (X)
+Correct answer: review
+Point = 0 
+
+11) When a file is encrypted, the data is converted to a ___.
+Student Answer: code
+Correct answer: code
+Point = 3.33 
+
+12) "When you set editing restrictions to No changes, the document is made ___."
+Student Answer: read only
+Correct answer: read only
+Point = 3.33 
+
+13) A ___ is the location in the document that you are allowed to edit
+Student Answer: region
+Correct answer: region
+Point = 3.33 
+
+14) Select Mark as Final to alert others that you wish this document to be ___.
+Student Answer:  read only (X)
+Correct answer: read only
+Point = 0 
+
+15) "You are asked to revert back to the original document, negating all changes. In order to recover the original document, choose ___ in Backstage. "
+Student Answer: manage versions
+Correct answer: manage versions
+Point = 3.33 
+
+16) "When you add a password to a document, what are you doing to it?"
+Student Answer: encrypting
+Correct answer: encrypting
+Point = 3.33 
+
+17) "User authentication adds an inscription preventing sensitive documents from being printed, forwarded, or copied. In order to activate user authentication, your computer must be set up for which of the following?"
+Student Answer: irm
+Correct answer: irm
+Point = 3.33 
+
+18) "You want to allow others to change text in your document; however, you do not want them to make any changes to the structure, pattern, or theme. Which option do you choose in the Formatting Restrictions dialog box?"
+Student Answer: block theme or scheme switching (X)
+Correct answer: allow autoformat to override formatting restrictions
+Point = 0 
+
+19) Word opens a document in Protected View when it cannot confirm it came from a safe location. Which option turns off Protected View?
+Student Answer: enable editing
+Correct answer: enable editing
+Point = 3.33 
+
+20) "In order to recover a document closed without a file name, use the Recover Unsaved Documents button in the __________ option in Backstage. "
+Student Answer: open
+Correct answer: open
+Point = 3.33 
+
+21) Which command in Backstage allows you to change the default Word settings to customize the program to best fit your needs?
+Student Answer: options
+Correct answer: options
+Point = 3.33 
+
+22) Which category in Word Options allows you to add your name and initials automatically to all Word documents you create?
+Student Answer: general
+Correct answer: general
+Point = 3.33 
+
+23) Which default file format will you set in Word Options to maintain compatibility with Word 2003 users until all coworkers are upgraded to Word 2013?
+Student Answer: *.doc
+Correct answer: *.doc
+Point = 3.33 
+
+24) Changes made to the default working folder in Word Options apply to which of the following?
+Student Answer: the open and all future word documents (X)
+Correct answer: the open and all future of word documents
+Point = 0 
+
+25) Which tab in Word Options contains the greatest number of customization options available?
+Student Answer: advanced (X)
+Correct answer: advance
+Point = 0 
+
+26) "In order to change the number of Recent Documents from 25 to 15, you would access Backstage, Word Options, and then which of the following?"
+Student Answer: advanced show this number of recent documents
+Correct answer: advanced show this number of recent documents
+Point = 3.33 
+
+27) "In order to have Word notify you before modifying the new document template, you would access Backstage, Word Options, and then which of the following?"
+Student Answer: general prompt before saving normal template
+Correct answer: general prompt before saving normal template
+Point = 3.33 
+
+28) Information you type in the Properties dialog box is also known as ___.
+Student Answer: metadata
+Correct answer: metadata
+Point = 3.33 
+
+29) The ___ folder on drive C is the default location where all Microsoft Office files are stored.
+Student Answer: document
+Correct answer: document
+Point = 3.33 
+
+30) You must be ___ to your Microsoft account before you can add your Facebook account to your SkyDrive connections.
+Student Answer: signed in
+Correct answer: signed in
+Point = 3.33 
+
+-----------------------
+-----------------------
+TOTAL SCORE: 83.24999999999997 out of 100
+ -------------------------
+-----------------------
+
+################################## 
+ ---------C202 Midterm----------
+Student Name: Sunghan Suh
+Date: 2018-09-20
+################################## 
+1) Use the ___ view to arrange large documents into smaller sections
+Student Answer: outline
+Correct answer: outline
+Point = 3.33 
+
+2) The master document is updated automatically because the subdocument is ___ to the master document.
+Student Answer: linked
+Correct answer: linked
+Point = 3.33 
+
+3) A ___ is part of the master document and is separated into small sections.
+Student Answer: subdocument
+Correct answer: subdocument
+Point = 3.33 
+
+4) "When opening a master document, the subdocuments displays as a ___ to the file."
+Student Answer: hyperlink
+Correct answer: hyperlink
+Point = 3.33 
+
+5) "Once you move a subdocument, unlink it and ___ it."
+Student Answer: recreate
+Correct answer: recreate
+Point = 3.33 
+
+6) Subdocuments are created based on which of the following?
+Student Answer: heading styles
+Correct answer: heading styles
+Point = 3.33 
+
+7) Which of the following methods best describes how to save a master document?
+Student Answer: same directory
+Correct answer: same directory
+Point = 3.33 
+
+8) Which of the following key sequences is used to follow a subdocument link within the master?
+Student Answer: ctrl + click
+Correct answer: ctrl + click
+Point = 3.33 
+
+9) Which symbol displays next to a heading in Outline view and is used to select the heading?
+Student Answer: (+)
+Correct answer: (+)
+Point = 3.33 
+
+10) Which tab contains the Macros command?
+Student Answer: view (X)
+Correct answer: review
+Point = 0 
+
+11) When a file is encrypted, the data is converted to a ___.
+Student Answer: code
+Correct answer: code
+Point = 3.33 
+
+12) "When you set editing restrictions to No changes, the document is made ___."
+Student Answer: read only
+Correct answer: read only
+Point = 3.33 
+
+13) A ___ is the location in the document that you are allowed to edit
+Student Answer: region
+Correct answer: region
+Point = 3.33 
+
+14) Select Mark as Final to alert others that you wish this document to be ___.
+Student Answer: read only
+Correct answer: read only
+Point = 3.33 
+
+15) "You are asked to revert back to the original document, negating all changes. In order to recover the original document, choose ___ in Backstage. "
+Student Answer: manage versions
+Correct answer: manage versions
+Point = 3.33 
+
+16) "When you add a password to a document, what are you doing to it?"
+Student Answer: encrypting
+Correct answer: encrypting
+Point = 3.33 
+
+17) "User authentication adds an inscription preventing sensitive documents from being printed, forwarded, or copied. In order to activate user authentication, your computer must be set up for which of the following?"
+Student Answer: irm
+Correct answer: irm
+Point = 3.33 
+
+18) "You want to allow others to change text in your document; however, you do not want them to make any changes to the structure, pattern, or theme. Which option do you choose in the Formatting Restrictions dialog box?"
+Student Answer: block theme or scheme switching (X)
+Correct answer: allow autoformat to override formatting restrictions
+Point = 0 
+
+19) Word opens a document in Protected View when it cannot confirm it came from a safe location. Which option turns off Protected View?
+Student Answer: enable editing
+Correct answer: enable editing
+Point = 3.33 
+
+20) "In order to recover a document closed without a file name, use the Recover Unsaved Documents button in the __________ option in Backstage. "
+Student Answer: open
+Correct answer: open
+Point = 3.33 
+
+21) Which command in Backstage allows you to change the default Word settings to customize the program to best fit your needs?
+Student Answer: options
+Correct answer: options
+Point = 3.33 
+
+22) Which category in Word Options allows you to add your name and initials automatically to all Word documents you create?
+Student Answer: general
+Correct answer: general
+Point = 3.33 
+
+23) Which default file format will you set in Word Options to maintain compatibility with Word 2003 users until all coworkers are upgraded to Word 2013?
+Student Answer: *.doc
+Correct answer: *.doc
+Point = 3.33 
+
+24) Changes made to the default working folder in Word Options apply to which of the following?
+Student Answer: the open and all future word documents (X)
+Correct answer: the open and all future of word documents
+Point = 0 
+
+25) Which tab in Word Options contains the greatest number of customization options available?
+Student Answer: advanced (X)
+Correct answer: advance
+Point = 0 
+
+26) "In order to change the number of Recent Documents from 25 to 15, you would access Backstage, Word Options, and then which of the following?"
+Student Answer: advanced show this number of recent documents
+Correct answer: advanced show this number of recent documents
+Point = 3.33 
+
+27) "In order to have Word notify you before modifying the new document template, you would access Backstage, Word Options, and then which of the following?"
+Student Answer: general prompt before saving normal template
+Correct answer: general prompt before saving normal template
+Point = 3.33 
+
+28) Information you type in the Properties dialog box is also known as ___.
+Student Answer: metadata
+Correct answer: metadata
+Point = 3.33 
+
+29) The ___ folder on drive C is the default location where all Microsoft Office files are stored.
+Student Answer: document
+Correct answer: document
+Point = 3.33 
+
+30) You must be ___ to your Microsoft account before you can add your Facebook account to your SkyDrive connections.
+Student Answer: signed in
+Correct answer: signed in
+Point = 3.33 
+
+-----------------------
+-----------------------
+TOTAL SCORE: 86.57999999999997 out of 100
+ -------------------------
+-----------------------
+
+################################## 
+ ---------C202 Midterm----------
+Student Name: Daisy  Ricario
+Date: 2018-09-20
+################################## 
+1) Use the ___ view to arrange large documents into smaller sections
+Student Answer: outline
+Correct answer: outline
+Point = 3.33 
+
+2) The master document is updated automatically because the subdocument is ___ to the master document.
+Student Answer: linked
+Correct answer: linked
+Point = 3.33 
+
+3) A ___ is part of the master document and is separated into small sections.
+Student Answer: subdocument
+Correct answer: subdocument
+Point = 3.33 
+
+4) "When opening a master document, the subdocuments displays as a ___ to the file."
+Student Answer: hyperlink
+Correct answer: hyperlink
+Point = 3.33 
+
+5) "Once you move a subdocument, unlink it and ___ it."
+Student Answer: recreate
+Correct answer: recreate
+Point = 3.33 
+
+6) Subdocuments are created based on which of the following?
+Student Answer: heading styles
+Correct answer: heading styles
+Point = 3.33 
+
+7) Which of the following methods best describes how to save a master document?
+Student Answer: same directory
+Correct answer: same directory
+Point = 3.33 
+
+8) Which of the following key sequences is used to follow a subdocument link within the master?
+Student Answer: ctrl + click
+Correct answer: ctrl + click
+Point = 3.33 
+
+9) Which symbol displays next to a heading in Outline view and is used to select the heading?
+Student Answer: (+)
+Correct answer: (+)
+Point = 3.33 
+
+10) Which tab contains the Macros command?
+Student Answer: view (X)
+Correct answer: review
+Point = 0 
+
+11) When a file is encrypted, the data is converted to a ___.
+Student Answer: code
+Correct answer: code
+Point = 3.33 
+
+12) "When you set editing restrictions to No changes, the document is made ___."
+Student Answer: read only
+Correct answer: read only
+Point = 3.33 
+
+13) A ___ is the location in the document that you are allowed to edit
+Student Answer: region
+Correct answer: region
+Point = 3.33 
+
+14) Select Mark as Final to alert others that you wish this document to be ___.
+Student Answer: read only
+Correct answer: read only
+Point = 3.33 
+
+15) "You are asked to revert back to the original document, negating all changes. In order to recover the original document, choose ___ in Backstage. "
+Student Answer: manage versions
+Correct answer: manage versions
+Point = 3.33 
+
+16) "When you add a password to a document, what are you doing to it?"
+Student Answer: encrypting
+Correct answer: encrypting
+Point = 3.33 
+
+17) "User authentication adds an inscription preventing sensitive documents from being printed, forwarded, or copied. In order to activate user authentication, your computer must be set up for which of the following?"
+Student Answer: irm
+Correct answer: irm
+Point = 3.33 
+
+18) "You want to allow others to change text in your document; however, you do not want them to make any changes to the structure, pattern, or theme. Which option do you choose in the Formatting Restrictions dialog box?"
+Student Answer: block theme or scheme switching (X)
+Correct answer: allow autoformat to override formatting restrictions
+Point = 0 
+
+19) Word opens a document in Protected View when it cannot confirm it came from a safe location. Which option turns off Protected View?
+Student Answer: enable editing
+Correct answer: enable editing
+Point = 3.33 
+
+20) "In order to recover a document closed without a file name, use the Recover Unsaved Documents button in the __________ option in Backstage. "
+Student Answer: open
+Correct answer: open
+Point = 3.33 
+
+21) Which command in Backstage allows you to change the default Word settings to customize the program to best fit your needs?
+Student Answer: options
+Correct answer: options
+Point = 3.33 
+
+22) Which category in Word Options allows you to add your name and initials automatically to all Word documents you create?
+Student Answer: general
+Correct answer: general
+Point = 3.33 
+
+23) Which default file format will you set in Word Options to maintain compatibility with Word 2003 users until all coworkers are upgraded to Word 2013?
+Student Answer: *.doc
+Correct answer: *.doc
+Point = 3.33 
+
+24) Changes made to the default working folder in Word Options apply to which of the following?
+Student Answer: the open and all future word documents (X)
+Correct answer: the open and all future of word documents
+Point = 0 
+
+25) Which tab in Word Options contains the greatest number of customization options available?
+Student Answer: advanced (X)
+Correct answer: advance
+Point = 0 
+
+26) "In order to change the number of Recent Documents from 25 to 15, you would access Backstage, Word Options, and then which of the following?"
+Student Answer: advanced show this number of recent documents
+Correct answer: advanced show this number of recent documents
+Point = 3.33 
+
+27) "In order to have Word notify you before modifying the new document template, you would access Backstage, Word Options, and then which of the following?"
+Student Answer: general prompt before saving normal template
+Correct answer: general prompt before saving normal template
+Point = 3.33 
+
+28) Information you type in the Properties dialog box is also known as ___.
+Student Answer: metadata
+Correct answer: metadata
+Point = 3.33 
+
+29) The ___ folder on drive C is the default location where all Microsoft Office files are stored.
+Student Answer: document
+Correct answer: document
+Point = 3.33 
+
+30) You must be ___ to your Microsoft account before you can add your Facebook account to your SkyDrive connections.
+Student Answer: signed in
+Correct answer: signed in
+Point = 3.33 
+
+-----------------------
+-----------------------
+TOTAL SCORE: 86.57999999999997 out of 100
+ -------------------------
+-----------------------
+
+################################## 
+ ---------C202 Midterm----------
+Student Name: Monika(Myungkho) Shin
+Date: undefined
+################################## 
+1) Use the ___ view to arrange large documents into smaller sections
+Student Answer: outline
+Correct answer: outline
+Point = 3.33 
+
+2) The master document is updated automatically because the subdocument is ___ to the master document.
+Student Answer: linked
+Correct answer: linked
+Point = 3.33 
+
+3) A ___ is part of the master document and is separated into small sections.
+Student Answer: subdocument
+Correct answer: subdocument
+Point = 3.33 
+
+4) "When opening a master document, the subdocuments displays as a ___ to the file."
+Student Answer: hyperlink
+Correct answer: hyperlink
+Point = 3.33 
+
+5) "Once you move a subdocument, unlink it and ___ it."
+Student Answer: recreate
+Correct answer: recreate
+Point = 3.33 
+
+6) Subdocuments are created based on which of the following?
+Student Answer: heading styles
+Correct answer: heading styles
+Point = 3.33 
+
+7) Which of the following methods best describes how to save a master document?
+Student Answer: same directory
+Correct answer: same directory
+Point = 3.33 
+
+8) Which of the following key sequences is used to follow a subdocument link within the master?
+Student Answer: ctrl + click
+Correct answer: ctrl + click
+Point = 3.33 
+
+9) Which symbol displays next to a heading in Outline view and is used to select the heading?
+Student Answer: (+)
+Correct answer: (+)
+Point = 3.33 
+
+10) Which tab contains the Macros command?
+Student Answer: view (X)
+Correct answer: review
+Point = 0 
+
+11) When a file is encrypted, the data is converted to a ___.
+Student Answer: code
+Correct answer: code
+Point = 3.33 
+
+12) "When you set editing restrictions to No changes, the document is made ___."
+Student Answer: read only
+Correct answer: read only
+Point = 3.33 
+
+13) A ___ is the location in the document that you are allowed to edit
+Student Answer: region
+Correct answer: region
+Point = 3.33 
+
+14) Select Mark as Final to alert others that you wish this document to be ___.
+Student Answer: read only
+Correct answer: read only
+Point = 3.33 
+
+15) "You are asked to revert back to the original document, negating all changes. In order to recover the original document, choose ___ in Backstage. "
+Student Answer: manage versions
+Correct answer: manage versions
+Point = 3.33 
+
+16) "When you add a password to a document, what are you doing to it?"
+Student Answer: encrypting
+Correct answer: encrypting
+Point = 3.33 
+
+17) "User authentication adds an inscription preventing sensitive documents from being printed, forwarded, or copied. In order to activate user authentication, your computer must be set up for which of the following?"
+Student Answer: irm
+Correct answer: irm
+Point = 3.33 
+
+18) "You want to allow others to change text in your document; however, you do not want them to make any changes to the structure, pattern, or theme. Which option do you choose in the Formatting Restrictions dialog box?"
+Student Answer: block theme or scheme switching (X)
+Correct answer: allow autoformat to override formatting restrictions
+Point = 0 
+
+19) Word opens a document in Protected View when it cannot confirm it came from a safe location. Which option turns off Protected View?
+Student Answer: enable editing
+Correct answer: enable editing
+Point = 3.33 
+
+20) "In order to recover a document closed without a file name, use the Recover Unsaved Documents button in the __________ option in Backstage. "
+Student Answer: open
+Correct answer: open
+Point = 3.33 
+
+21) Which command in Backstage allows you to change the default Word settings to customize the program to best fit your needs?
+Student Answer: options
+Correct answer: options
+Point = 3.33 
+
+22) Which category in Word Options allows you to add your name and initials automatically to all Word documents you create?
+Student Answer: general
+Correct answer: general
+Point = 3.33 
+
+23) Which default file format will you set in Word Options to maintain compatibility with Word 2003 users until all coworkers are upgraded to Word 2013?
+Student Answer: *.doc
+Correct answer: *.doc
+Point = 3.33 
+
+24) Changes made to the default working folder in Word Options apply to which of the following?
+Student Answer: the open and all future word documents (X)
+Correct answer: the open and all future of word documents
+Point = 0 
+
+25) Which tab in Word Options contains the greatest number of customization options available?
+Student Answer: advanced (X)
+Correct answer: advance
+Point = 0 
+
+26) "In order to change the number of Recent Documents from 25 to 15, you would access Backstage, Word Options, and then which of the following?"
+Student Answer: advanced show this number of recent documents
+Correct answer: advanced show this number of recent documents
+Point = 3.33 
+
+27) "In order to have Word notify you before modifying the new document template, you would access Backstage, Word Options, and then which of the following?"
+Student Answer: general prompt before saving normal template
+Correct answer: general prompt before saving normal template
+Point = 3.33 
+
+28) Information you type in the Properties dialog box is also known as ___.
+Student Answer: metadata
+Correct answer: metadata
+Point = 3.33 
+
+29) The ___ folder on drive C is the default location where all Microsoft Office files are stored.
+Student Answer: document
+Correct answer: document
+Point = 3.33 
+
+30) You must be ___ to your Microsoft account before you can add your Facebook account to your SkyDrive connections.
+Student Answer: signed in
+Correct answer: signed in
+Point = 3.33 
+
+-----------------------
+-----------------------
+TOTAL SCORE: 86.57999999999997 out of 100
+ -------------------------
+-----------------------
+
+################################## 
+ ---------C202 Midterm----------
+Student Name: Amelia Austria
+Date: 2018-09-20
+################################## 
+1) Use the ___ view to arrange large documents into smaller sections
+Student Answer: outline
+Correct answer: outline
+Point = 3.33 
+
+2) The master document is updated automatically because the subdocument is ___ to the master document.
+Student Answer: linked
+Correct answer: linked
+Point = 3.33 
+
+3) A ___ is part of the master document and is separated into small sections.
+Student Answer: subdocument
+Correct answer: subdocument
+Point = 3.33 
+
+4) "When opening a master document, the subdocuments displays as a ___ to the file."
+Student Answer: hyperlink
+Correct answer: hyperlink
+Point = 3.33 
+
+5) "Once you move a subdocument, unlink it and ___ it."
+Student Answer: recreate
+Correct answer: recreate
+Point = 3.33 
+
+6) Subdocuments are created based on which of the following?
+Student Answer: heading styles
+Correct answer: heading styles
+Point = 3.33 
+
+7) Which of the following methods best describes how to save a master document?
+Student Answer: same directory
+Correct answer: same directory
+Point = 3.33 
+
+8) Which of the following key sequences is used to follow a subdocument link within the master?
+Student Answer: ctrl + click
+Correct answer: ctrl + click
+Point = 3.33 
+
+9) Which symbol displays next to a heading in Outline view and is used to select the heading?
+Student Answer: (+)
+Correct answer: (+)
+Point = 3.33 
+
+10) Which tab contains the Macros command?
+Student Answer: view (X)
+Correct answer: review
+Point = 0 
+
+11) When a file is encrypted, the data is converted to a ___.
+Student Answer: code
+Correct answer: code
+Point = 3.33 
+
+12) "When you set editing restrictions to No changes, the document is made ___."
+Student Answer: read only
+Correct answer: read only
+Point = 3.33 
+
+13) A ___ is the location in the document that you are allowed to edit
+Student Answer: region
+Correct answer: region
+Point = 3.33 
+
+14) Select Mark as Final to alert others that you wish this document to be ___.
+Student Answer: read only
+Correct answer: read only
+Point = 3.33 
+
+15) "You are asked to revert back to the original document, negating all changes. In order to recover the original document, choose ___ in Backstage. "
+Student Answer: manage versions
+Correct answer: manage versions
+Point = 3.33 
+
+16) "When you add a password to a document, what are you doing to it?"
+Student Answer: encrypting
+Correct answer: encrypting
+Point = 3.33 
+
+17) "User authentication adds an inscription preventing sensitive documents from being printed, forwarded, or copied. In order to activate user authentication, your computer must be set up for which of the following?"
+Student Answer: irm
+Correct answer: irm
+Point = 3.33 
+
+18) "You want to allow others to change text in your document; however, you do not want them to make any changes to the structure, pattern, or theme. Which option do you choose in the Formatting Restrictions dialog box?"
+Student Answer: block theme or scheme switching (X)
+Correct answer: allow autoformat to override formatting restrictions
+Point = 0 
+
+19) Word opens a document in Protected View when it cannot confirm it came from a safe location. Which option turns off Protected View?
+Student Answer: enable editing
+Correct answer: enable editing
+Point = 3.33 
+
+20) "In order to recover a document closed without a file name, use the Recover Unsaved Documents button in the __________ option in Backstage. "
+Student Answer: open
+Correct answer: open
+Point = 3.33 
+
+21) Which command in Backstage allows you to change the default Word settings to customize the program to best fit your needs?
+Student Answer: options
+Correct answer: options
+Point = 3.33 
+
+22) Which category in Word Options allows you to add your name and initials automatically to all Word documents you create?
+Student Answer: general
+Correct answer: general
+Point = 3.33 
+
+23) Which default file format will you set in Word Options to maintain compatibility with Word 2003 users until all coworkers are upgraded to Word 2013?
+Student Answer: *.doc
+Correct answer: *.doc
+Point = 3.33 
+
+24) Changes made to the default working folder in Word Options apply to which of the following?
+Student Answer: the open and all future word documents (X)
+Correct answer: the open and all future of word documents
+Point = 0 
+
+25) Which tab in Word Options contains the greatest number of customization options available?
+Student Answer: advanced (X)
+Correct answer: advance
+Point = 0 
+
+26) "In order to change the number of Recent Documents from 25 to 15, you would access Backstage, Word Options, and then which of the following?"
+Student Answer: advanced show this number of recent documents
+Correct answer: advanced show this number of recent documents
+Point = 3.33 
+
+27) "In order to have Word notify you before modifying the new document template, you would access Backstage, Word Options, and then which of the following?"
+Student Answer: general prompt before saving normal template
+Correct answer: general prompt before saving normal template
+Point = 3.33 
+
+28) Information you type in the Properties dialog box is also known as ___.
+Student Answer: metadata
+Correct answer: metadata
+Point = 3.33 
+
+29) The ___ folder on drive C is the default location where all Microsoft Office files are stored.
+Student Answer: document
+Correct answer: document
+Point = 3.33 
+
+30) You must be ___ to your Microsoft account before you can add your Facebook account to your SkyDrive connections.
+Student Answer: sign in (X)
+Correct answer: signed in
+Point = 0 
+
+-----------------------
+-----------------------
+TOTAL SCORE: 83.24999999999997 out of 100
+ -------------------------
+-----------------------
+
+################################## 
+ ---------C202 Midterm----------
+Student Name: WooJin Cho
+Date: 2018-09-20
+################################## 
+1) Use the ___ view to arrange large documents into smaller sections
+Student Answer: outline
+Correct answer: outline
+Point = 3.33 
+
+2) The master document is updated automatically because the subdocument is ___ to the master document.
+Student Answer: linked
+Correct answer: linked
+Point = 3.33 
+
+3) A ___ is part of the master document and is separated into small sections.
+Student Answer: subdocument
+Correct answer: subdocument
+Point = 3.33 
+
+4) "When opening a master document, the subdocuments displays as a ___ to the file."
+Student Answer: hyperlink
+Correct answer: hyperlink
+Point = 3.33 
+
+5) "Once you move a subdocument, unlink it and ___ it."
+Student Answer: recreate
+Correct answer: recreate
+Point = 3.33 
+
+6) Subdocuments are created based on which of the following?
+Student Answer: heading styles
+Correct answer: heading styles
+Point = 3.33 
+
+7) Which of the following methods best describes how to save a master document?
+Student Answer: same directory
+Correct answer: same directory
+Point = 3.33 
+
+8) Which of the following key sequences is used to follow a subdocument link within the master?
+Student Answer: ctrl + click
+Correct answer: ctrl + click
+Point = 3.33 
+
+9) Which symbol displays next to a heading in Outline view and is used to select the heading?
+Student Answer: (+)
+Correct answer: (+)
+Point = 3.33 
+
+10) Which tab contains the Macros command?
+Student Answer: view (X)
+Correct answer: review
+Point = 0 
+
+11) When a file is encrypted, the data is converted to a ___.
+Student Answer: code
+Correct answer: code
+Point = 3.33 
+
+12) "When you set editing restrictions to No changes, the document is made ___."
+Student Answer: read only
+Correct answer: read only
+Point = 3.33 
+
+13) A ___ is the location in the document that you are allowed to edit
+Student Answer: region
+Correct answer: region
+Point = 3.33 
+
+14) Select Mark as Final to alert others that you wish this document to be ___.
+Student Answer: read only
+Correct answer: read only
+Point = 3.33 
+
+15) "You are asked to revert back to the original document, negating all changes. In order to recover the original document, choose ___ in Backstage. "
+Student Answer: manage versions
+Correct answer: manage versions
+Point = 3.33 
+
+16) "When you add a password to a document, what are you doing to it?"
+Student Answer: encrypting
+Correct answer: encrypting
+Point = 3.33 
+
+17) "User authentication adds an inscription preventing sensitive documents from being printed, forwarded, or copied. In order to activate user authentication, your computer must be set up for which of the following?"
+Student Answer: irm
+Correct answer: irm
+Point = 3.33 
+
+18) "You want to allow others to change text in your document; however, you do not want them to make any changes to the structure, pattern, or theme. Which option do you choose in the Formatting Restrictions dialog box?"
+Student Answer: block theme or scheme switching (X)
+Correct answer: allow autoformat to override formatting restrictions
+Point = 0 
+
+19) Word opens a document in Protected View when it cannot confirm it came from a safe location. Which option turns off Protected View?
+Student Answer: enable editing
+Correct answer: enable editing
+Point = 3.33 
+
+20) "In order to recover a document closed without a file name, use the Recover Unsaved Documents button in the __________ option in Backstage. "
+Student Answer: open
+Correct answer: open
+Point = 3.33 
+
+21) Which command in Backstage allows you to change the default Word settings to customize the program to best fit your needs?
+Student Answer: options
+Correct answer: options
+Point = 3.33 
+
+22) Which category in Word Options allows you to add your name and initials automatically to all Word documents you create?
+Student Answer: general
+Correct answer: general
+Point = 3.33 
+
+23) Which default file format will you set in Word Options to maintain compatibility with Word 2003 users until all coworkers are upgraded to Word 2013?
+Student Answer: *.doc
+Correct answer: *.doc
+Point = 3.33 
+
+24) Changes made to the default working folder in Word Options apply to which of the following?
+Student Answer: the open and all future word documents (X)
+Correct answer: the open and all future of word documents
+Point = 0 
+
+25) Which tab in Word Options contains the greatest number of customization options available?
+Student Answer: advanced (X)
+Correct answer: advance
+Point = 0 
+
+26) "In order to change the number of Recent Documents from 25 to 15, you would access Backstage, Word Options, and then which of the following?"
+Student Answer: advanced show this number of recent documents
+Correct answer: advanced show this number of recent documents
+Point = 3.33 
+
+27) "In order to have Word notify you before modifying the new document template, you would access Backstage, Word Options, and then which of the following?"
+Student Answer: general prompt before saving normal template
+Correct answer: general prompt before saving normal template
+Point = 3.33 
+
+28) Information you type in the Properties dialog box is also known as ___.
+Student Answer: metadata
+Correct answer: metadata
+Point = 3.33 
+
+29) The ___ folder on drive C is the default location where all Microsoft Office files are stored.
+Student Answer: document
+Correct answer: document
+Point = 3.33 
+
+30) You must be ___ to your Microsoft account before you can add your Facebook account to your SkyDrive connections.
+Student Answer: signed in
+Correct answer: signed in
+Point = 3.33 
+
+-----------------------
+-----------------------
+TOTAL SCORE: 86.57999999999997 out of 100
+ -------------------------
+-----------------------
+
+################################## 
+ ---------C202 Midterm----------
+Student Name: LIEZELDA A MOGOL
+Date: 2018-09-20
+################################## 
+1) Use the ___ view to arrange large documents into smaller sections
+Student Answer: outline
+Correct answer: outline
+Point = 3.33 
+
+2) The master document is updated automatically because the subdocument is ___ to the master document.
+Student Answer: linked
+Correct answer: linked
+Point = 3.33 
+
+3) A ___ is part of the master document and is separated into small sections.
+Student Answer: subdocument
+Correct answer: subdocument
+Point = 3.33 
+
+4) "When opening a master document, the subdocuments displays as a ___ to the file."
+Student Answer: hyperlink
+Correct answer: hyperlink
+Point = 3.33 
+
+5) "Once you move a subdocument, unlink it and ___ it."
+Student Answer: recreate
+Correct answer: recreate
+Point = 3.33 
+
+6) Subdocuments are created based on which of the following?
+Student Answer: heading styles
+Correct answer: heading styles
+Point = 3.33 
+
+7) Which of the following methods best describes how to save a master document?
+Student Answer: same directory
+Correct answer: same directory
+Point = 3.33 
+
+8) Which of the following key sequences is used to follow a subdocument link within the master?
+Student Answer: ctrl + click
+Correct answer: ctrl + click
+Point = 3.33 
+
+9) Which symbol displays next to a heading in Outline view and is used to select the heading?
+Student Answer: (+)
+Correct answer: (+)
+Point = 3.33 
+
+10) Which tab contains the Macros command?
+Student Answer: view (X)
+Correct answer: review
+Point = 0 
+
+11) When a file is encrypted, the data is converted to a ___.
+Student Answer: code
+Correct answer: code
+Point = 3.33 
+
+12) "When you set editing restrictions to No changes, the document is made ___."
+Student Answer: read only
+Correct answer: read only
+Point = 3.33 
+
+13) A ___ is the location in the document that you are allowed to edit
+Student Answer: region
+Correct answer: region
+Point = 3.33 
+
+14) Select Mark as Final to alert others that you wish this document to be ___.
+Student Answer: read only
+Correct answer: read only
+Point = 3.33 
+
+15) "You are asked to revert back to the original document, negating all changes. In order to recover the original document, choose ___ in Backstage. "
+Student Answer: manage versions
+Correct answer: manage versions
+Point = 3.33 
+
+16) "When you add a password to a document, what are you doing to it?"
+Student Answer: encrypting
+Correct answer: encrypting
+Point = 3.33 
+
+17) "User authentication adds an inscription preventing sensitive documents from being printed, forwarded, or copied. In order to activate user authentication, your computer must be set up for which of the following?"
+Student Answer: irm
+Correct answer: irm
+Point = 3.33 
+
+18) "You want to allow others to change text in your document; however, you do not want them to make any changes to the structure, pattern, or theme. Which option do you choose in the Formatting Restrictions dialog box?"
+Student Answer: block theme or scheme switching (X)
+Correct answer: allow autoformat to override formatting restrictions
+Point = 0 
+
+19) Word opens a document in Protected View when it cannot confirm it came from a safe location. Which option turns off Protected View?
+Student Answer: enable editing
+Correct answer: enable editing
+Point = 3.33 
+
+20) "In order to recover a document closed without a file name, use the Recover Unsaved Documents button in the __________ option in Backstage. "
+Student Answer: open
+Correct answer: open
+Point = 3.33 
+
+21) Which command in Backstage allows you to change the default Word settings to customize the program to best fit your needs?
+Student Answer: share (X)
+Correct answer: options
+Point = 0 
+
+22) Which category in Word Options allows you to add your name and initials automatically to all Word documents you create?
+Student Answer: general
+Correct answer: general
+Point = 3.33 
+
+23) Which default file format will you set in Word Options to maintain compatibility with Word 2003 users until all coworkers are upgraded to Word 2013?
+Student Answer: *.doc
+Correct answer: *.doc
+Point = 3.33 
+
+24) Changes made to the default working folder in Word Options apply to which of the following?
+Student Answer: the open and all future word documents (X)
+Correct answer: the open and all future of word documents
+Point = 0 
+
+25) Which tab in Word Options contains the greatest number of customization options available?
+Student Answer: advanced (X)
+Correct answer: advance
+Point = 0 
+
+26) "In order to change the number of Recent Documents from 25 to 15, you would access Backstage, Word Options, and then which of the following?"
+Student Answer: advanced show this number of recent documents
+Correct answer: advanced show this number of recent documents
+Point = 3.33 
+
+27) "In order to have Word notify you before modifying the new document template, you would access Backstage, Word Options, and then which of the following?"
+Student Answer: general prompt before saving normal template
+Correct answer: general prompt before saving normal template
+Point = 3.33 
+
+28) Information you type in the Properties dialog box is also known as ___.
+Student Answer: metadata
+Correct answer: metadata
+Point = 3.33 
+
+29) The ___ folder on drive C is the default location where all Microsoft Office files are stored.
+Student Answer: document
+Correct answer: document
+Point = 3.33 
+
+30) You must be ___ to your Microsoft account before you can add your Facebook account to your SkyDrive connections.
+Student Answer: signed in
+Correct answer: signed in
+Point = 3.33 
+
+-----------------------
+-----------------------
+TOTAL SCORE: 83.24999999999997 out of 100
+ -------------------------
+-----------------------
+
+################################## 
+ ---------C202 Midterm----------
+Student Name: Karl Vincent Padua
+Date: 2018-09-20
+################################## 
+1) Use the ___ view to arrange large documents into smaller sections
+Student Answer: outline
+Correct answer: outline
+Point = 3.33 
+
+2) The master document is updated automatically because the subdocument is ___ to the master document.
+Student Answer: linked
+Correct answer: linked
+Point = 3.33 
+
+3) A ___ is part of the master document and is separated into small sections.
+Student Answer: subdocument
+Correct answer: subdocument
+Point = 3.33 
+
+4) "When opening a master document, the subdocuments displays as a ___ to the file."
+Student Answer: html (X)
+Correct answer: hyperlink
+Point = 0 
+
+5) "Once you move a subdocument, unlink it and ___ it."
+Student Answer: save (X)
+Correct answer: recreate
+Point = 0 
+
+6) Subdocuments are created based on which of the following?
+Student Answer: file names (X)
+Correct answer: heading styles
+Point = 0 
+
+7) Which of the following methods best describes how to save a master document?
+Student Answer: same drive (X)
+Correct answer: same directory
+Point = 0 
+
+8) Which of the following key sequences is used to follow a subdocument link within the master?
+Student Answer: ctrl + click
+Correct answer: ctrl + click
+Point = 3.33 
+
+9) Which symbol displays next to a heading in Outline view and is used to select the heading?
+Student Answer: (+)
+Correct answer: (+)
+Point = 3.33 
+
+10) Which tab contains the Macros command?
+Student Answer: view (X)
+Correct answer: review
+Point = 0 
+
+11) When a file is encrypted, the data is converted to a ___.
+Student Answer: code
+Correct answer: code
+Point = 3.33 
+
+12) "When you set editing restrictions to No changes, the document is made ___."
+Student Answer: read only
+Correct answer: read only
+Point = 3.33 
+
+13) A ___ is the location in the document that you are allowed to edit
+Student Answer:  (X)
+Correct answer: region
+Point = 0 
+
+14) Select Mark as Final to alert others that you wish this document to be ___.
+Student Answer: read only
+Correct answer: read only
+Point = 3.33 
+
+15) "You are asked to revert back to the original document, negating all changes. In order to recover the original document, choose ___ in Backstage. "
+Student Answer: manage (X)
+Correct answer: manage versions
+Point = 0 
+
+16) "When you add a password to a document, what are you doing to it?"
+Student Answer: encrypting
+Correct answer: encrypting
+Point = 3.33 
+
+17) "User authentication adds an inscription preventing sensitive documents from being printed, forwarded, or copied. In order to activate user authentication, your computer must be set up for which of the following?"
+Student Answer: irm
+Correct answer: irm
+Point = 3.33 
+
+18) "You want to allow others to change text in your document; however, you do not want them to make any changes to the structure, pattern, or theme. Which option do you choose in the Formatting Restrictions dialog box?"
+Student Answer: block theme or scheme switching (X)
+Correct answer: allow autoformat to override formatting restrictions
+Point = 0 
+
+19) Word opens a document in Protected View when it cannot confirm it came from a safe location. Which option turns off Protected View?
+Student Answer: enable editing
+Correct answer: enable editing
+Point = 3.33 
+
+20) "In order to recover a document closed without a file name, use the Recover Unsaved Documents button in the __________ option in Backstage. "
+Student Answer: save (X)
+Correct answer: open
+Point = 0 
+
+21) Which command in Backstage allows you to change the default Word settings to customize the program to best fit your needs?
+Student Answer: options
+Correct answer: options
+Point = 3.33 
+
+22) Which category in Word Options allows you to add your name and initials automatically to all Word documents you create?
+Student Answer: general
+Correct answer: general
+Point = 3.33 
+
+23) Which default file format will you set in Word Options to maintain compatibility with Word 2003 users until all coworkers are upgraded to Word 2013?
+Student Answer: *.doc
+Correct answer: *.doc
+Point = 3.33 
+
+24) Changes made to the default working folder in Word Options apply to which of the following?
+Student Answer: the open and all future word documents (X)
+Correct answer: the open and all future of word documents
+Point = 0 
+
+25) Which tab in Word Options contains the greatest number of customization options available?
+Student Answer: advanced (X)
+Correct answer: advance
+Point = 0 
+
+26) "In order to change the number of Recent Documents from 25 to 15, you would access Backstage, Word Options, and then which of the following?"
+Student Answer: save show this number of recent documents (X)
+Correct answer: advanced show this number of recent documents
+Point = 0 
+
+27) "In order to have Word notify you before modifying the new document template, you would access Backstage, Word Options, and then which of the following?"
+Student Answer: general prompt before saving normal template
+Correct answer: general prompt before saving normal template
+Point = 3.33 
+
+28) Information you type in the Properties dialog box is also known as ___.
+Student Answer: metadata
+Correct answer: metadata
+Point = 3.33 
+
+29) The ___ folder on drive C is the default location where all Microsoft Office files are stored.
+Student Answer: document
+Correct answer: document
+Point = 3.33 
+
+30) You must be ___ to your Microsoft account before you can add your Facebook account to your SkyDrive connections.
+Student Answer: signed in
+Correct answer: signed in
+Point = 3.33 
+
+-----------------------
+-----------------------
+TOTAL SCORE: 59.939999999999976 out of 100
+ -------------------------
+-----------------------
+
+################################## 
+ ---------C202 Midterm----------
+Student Name: muneki nakamoto
+Date: 2018-09-20
+################################## 
+1) Use the ___ view to arrange large documents into smaller sections
+Student Answer: outline
+Correct answer: outline
+Point = 3.33 
+
+2) The master document is updated automatically because the subdocument is ___ to the master document.
+Student Answer: linked
+Correct answer: linked
+Point = 3.33 
+
+3) A ___ is part of the master document and is separated into small sections.
+Student Answer: subdocument
+Correct answer: subdocument
+Point = 3.33 
+
+4) "When opening a master document, the subdocuments displays as a ___ to the file."
+Student Answer: hyperlink
+Correct answer: hyperlink
+Point = 3.33 
+
+5) "Once you move a subdocument, unlink it and ___ it."
+Student Answer:  recreate (X)
+Correct answer: recreate
+Point = 0 
+
+6) Subdocuments are created based on which of the following?
+Student Answer: heading styles
+Correct answer: heading styles
+Point = 3.33 
+
+7) Which of the following methods best describes how to save a master document?
+Student Answer: same directory
+Correct answer: same directory
+Point = 3.33 
+
+8) Which of the following key sequences is used to follow a subdocument link within the master?
+Student Answer: ctrl + click
+Correct answer: ctrl + click
+Point = 3.33 
+
+9) Which symbol displays next to a heading in Outline view and is used to select the heading?
+Student Answer: (+)
+Correct answer: (+)
+Point = 3.33 
+
+10) Which tab contains the Macros command?
+Student Answer: view (X)
+Correct answer: review
+Point = 0 
+
+11) When a file is encrypted, the data is converted to a ___.
+Student Answer:  code (X)
+Correct answer: code
+Point = 0 
+
+12) "When you set editing restrictions to No changes, the document is made ___."
+Student Answer: read only
+Correct answer: read only
+Point = 3.33 
+
+13) A ___ is the location in the document that you are allowed to edit
+Student Answer: region
+Correct answer: region
+Point = 3.33 
+
+14) Select Mark as Final to alert others that you wish this document to be ___.
+Student Answer:  read only (X)
+Correct answer: read only
+Point = 0 
+
+15) "You are asked to revert back to the original document, negating all changes. In order to recover the original document, choose ___ in Backstage. "
+Student Answer:  manage versions (X)
+Correct answer: manage versions
+Point = 0 
+
+16) "When you add a password to a document, what are you doing to it?"
+Student Answer: encrypting
+Correct answer: encrypting
+Point = 3.33 
+
+17) "User authentication adds an inscription preventing sensitive documents from being printed, forwarded, or copied. In order to activate user authentication, your computer must be set up for which of the following?"
+Student Answer: irm
+Correct answer: irm
+Point = 3.33 
+
+18) "You want to allow others to change text in your document; however, you do not want them to make any changes to the structure, pattern, or theme. Which option do you choose in the Formatting Restrictions dialog box?"
+Student Answer: block theme or scheme switching (X)
+Correct answer: allow autoformat to override formatting restrictions
+Point = 0 
+
+19) Word opens a document in Protected View when it cannot confirm it came from a safe location. Which option turns off Protected View?
+Student Answer: enable editing
+Correct answer: enable editing
+Point = 3.33 
+
+20) "In order to recover a document closed without a file name, use the Recover Unsaved Documents button in the __________ option in Backstage. "
+Student Answer: open
+Correct answer: open
+Point = 3.33 
+
+21) Which command in Backstage allows you to change the default Word settings to customize the program to best fit your needs?
+Student Answer: options
+Correct answer: options
+Point = 3.33 
+
+22) Which category in Word Options allows you to add your name and initials automatically to all Word documents you create?
+Student Answer: general
+Correct answer: general
+Point = 3.33 
+
+23) Which default file format will you set in Word Options to maintain compatibility with Word 2003 users until all coworkers are upgraded to Word 2013?
+Student Answer: *.doc
+Correct answer: *.doc
+Point = 3.33 
+
+24) Changes made to the default working folder in Word Options apply to which of the following?
+Student Answer: the open and all future word documents (X)
+Correct answer: the open and all future of word documents
+Point = 0 
+
+25) Which tab in Word Options contains the greatest number of customization options available?
+Student Answer: advanced (X)
+Correct answer: advance
+Point = 0 
+
+26) "In order to change the number of Recent Documents from 25 to 15, you would access Backstage, Word Options, and then which of the following?"
+Student Answer: advanced show this number of recent documents
+Correct answer: advanced show this number of recent documents
+Point = 3.33 
+
+27) "In order to have Word notify you before modifying the new document template, you would access Backstage, Word Options, and then which of the following?"
+Student Answer: general prompt before saving normal template
+Correct answer: general prompt before saving normal template
+Point = 3.33 
+
+28) Information you type in the Properties dialog box is also known as ___.
+Student Answer: metadata
+Correct answer: metadata
+Point = 3.33 
+
+29) The ___ folder on drive C is the default location where all Microsoft Office files are stored.
+Student Answer:  document (X)
+Correct answer: document
+Point = 0 
+
+30) You must be ___ to your Microsoft account before you can add your Facebook account to your SkyDrive connections.
+Student Answer: signed in
+Correct answer: signed in
+Point = 3.33 
+
+-----------------------
+-----------------------
+TOTAL SCORE: 69.92999999999998 out of 100
+ -------------------------
+-----------------------
+

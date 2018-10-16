@@ -1,0 +1,46 @@
+Question,Type,Options,Answer,Score
+What command determines the way text is positioned around an object?,fb,none,Text Wrap,2.5
+What gallery previews several text and picture location options?,fb,none,Position,2.5
+"In order to convert text to WordArt, select text, and on the Insert tab select ___.",fb,none,WordArt,2.5
+___ is a visual representation of information that can help communicate a message more effectively.,fb,none,SmartArt,2.5
+"When the file size of an image is reduced by resolution, it is ___.",fb,none,Compressed,2.5
+From what tab can you add graphics to your Word document?,mc,"a) Home, b) Insert, c) Design, d) Reference",b,2.5
+"After applying a picture border, to what does “weight” refer?",mc,"a) heaviness of the drop shadow, b) thickness of the border, c) thickness of the bottom compared to the top, d) amount of color saturation",b,2.5
+How do you select multiple layers in an object?,mc,"a) Ctrl + A for Select All, b) highlight all layers, c) hold Ctrl key and select layers, d) click each layer in succession",c,2.5
+From what tab can you add a SmartArt object?,mc,"a) Home, b) Insert, c) Design, d) Add-Ins",b,2.5
+What is the object type of a picture in a precise location with text wrapped around the object?,mc,"a) inline, b) offline, c) floating, d) stationary",c,2.5
+What is the current standard number of spaces after a punctuation mark?,fb,none,One,2.5
+"When a word is added to the AutoCorrect Exception List, it is also added to the ___.",fb,none,Dictionary,2.5
+A person must sign in to their Microsoft account in order for their personal information to be displayed on the ___.,fb,none,Person Card,2.5
+What feature prevents anyone from turning Track Changes off?,fb,none,Lock Tracking,2.5
+What option provides a reference with similar words used to substitute for another word?,fb,none,Thesaurus,2.5
+Spelling & Grammar checking can be found on which tab?,mc,"a) Home, b) Insert, c) Reference, d) Review",d,2.5
+Where can you set the preferences used during the Spelling & Grammar check?,mc,"a) Review tab Define, b) Home tab Select, c) File tab Options, d) Reference Manage Sources",c,2.5
+How can you can locate the AutoCorrect options?,mc,"a) Review Define, b) File Options Proofing, c) File Options General, d) View Macro",b,2.5
+"From the AutoCorrect dialog box, how do you disable AutoCorrect?",mc,"a) deselect AutoCorrect option, b) deselect Replace text as you type,
+c) select AutoCorrect Off option, d) deselect Automatically Use Suggestions from the Spelling Checker",b,2.5
+"From the AutoCorrect Exceptions dialog box, you can select the option to ________________.",mc,"a) automatically remove spelling errors, b) convert numbers to text, c) automatically add words to list, d) ignore capital letters",c,2.5
+Use the ___ format to make writing a research paper more manageable and to keep organized.,fb,none,Outline,2.5
+A ___ is a line of text that describes an object and can appear above or below it.,fb,none,Caption,2.5
+"In order to activate the Position options within the Caption dialog box, you must first ___ an object.",fb,none,Select,2.5
+"In order to automatically display the page number in the upper right corner, you add a ___ on every page.",fb,none,Header,2.5
+A ___ is preformatted or custom information displayed in the same location at the bottom of every page.,fb,none,Footer,2.5
+You wish to create a document that displays a complete listing of all sources referenced in your paper. Which Word feature provides the opportunity to create such a document?,mc,"a) Captions, b) Bibliography
+c) Table of Contents, d) Citations",b,2.5
+"The MLA style, adopted as a style of choice by many colleges and universities, shows how to do which of the following to a research paper?",mc,"a) save, b) format, c) print, d) write",b,2.5
+"In order to avoid plagiarism, you must create a __________ to give credit to an original source",mc,"a) bookmark, b) table of contents, c) citation, d) reference",c,2.5
+Sources are compiled and listed in which section of a document?,mc,"a) table of contents, b) bibliography, c) title page, d) acknowledgement page",b,2.5
+The master list can be used in any document and contains which of the following?,mc,"a) bookmarks, b) sources, c) captions, d) footnotes",b,2.5
+___ are useful for creating multiple documents that have the same basic content and personalizing them with unique information from a data source.,fb,none,Mail Merges,2.5
+"___ in a table contain like information such as first name, last name, address, etc.",fb,none,Fields,2.5
+A ___ is a file that contains information to be merged in the main document,fb,none,Data Source,2.5
+"When open, the Mail Merge Recipients dialog box expands to display all fields and ___.",fb,none,Records,2.5
+Use the ___ button in the Insert Address Block dialog box to fix missing or out-of-order fields,fb,none,Match Fields,2.5
+Which of the following mail merge documents contains text and graphics that are the same for each version of the merged document?,mc,"a) main document, b) data source, c) merged document, d) blank document
+",a,2.5
+How many steps are included in the Mail Merge Wizard?,mc,"a) 1, b) 2, c) 4, d) 6",d,2.5
+You wish to use the same letter sent to employees last quarter. Which starting document type would you select in the Mail Merge Wizard?,mc,"a) Use the current document, b) Start from a template, c) Start from existing document, d) Open new document
+",c,2.5
+Which of the following extensions represents a data source file created in Access?,mc,"a) .docx, b) .xlsx, c) .pst, d) .accdb
+",d,2.5
+How do you choose to exclude specific recipients in the Mail Merge Recipients dialog box?,mc,"a) delete the recipient, b) hide the recipient, c) uncheck the check box, d) copy the recipient",c,2.5
